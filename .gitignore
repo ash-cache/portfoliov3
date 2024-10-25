@@ -1,6 +1,11 @@
 # build output
 dist/
 
+# old files
+src/OLDcomponents
+src/OLDlayouts
+src/OLDpages
+
 # generated types
 .astro/
 

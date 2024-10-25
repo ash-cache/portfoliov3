@@ -1,0 +1,41 @@
+[
+  {
+    "name": "bana.nz: Short and sweet URLs",
+    "description": "Easy to share links for kids",
+    "tags": ["React", "Express", "MongoDB"],
+    "url": "http://bana.nz/",
+    "image": "/assets/images/projects/bananz.png",
+    "video": ""
+  },
+  {
+    "name": "WebSRD",
+    "description": "Searchable docs for playing D&D",
+    "tags": ["Jekyll", "Vanilla JS"],
+    "url": "https://websrd.app",
+    "image": "",
+    "video": "/assets/images/projects/5eDocsDemo.mov"
+  },
+  {
+    "name": "Pomo",
+    "description": "Pomodoro timer for minimalists",
+    "tags": ["React", "CSS Animations", "Keyboard controls"],
+    "url": "https://pomo.ashkatta.dev",
+    "image": "",
+    "video": "/assets/images/projects/pomoDemo.mov"
+  },
+  {
+    "name": "MPLS Alt Music Events Calendar",
+    "description": "Events calendar for underground music scene.",
+    "tags": ["Python", "Web scraping", "BeautifulSoup", "React"],
+    "image": "/assets/images/projects/TC Events Cal.png",
+    "video": ""
+  },
+  {
+    "name": "Ephemeral Insurance",
+    "description": "A beautiful landing page for a fictional insurance company. I used the recently released Scroll-driven Animations CSS specification to incorporate story telling.",
+    "tags": ["CSS", "Scroll-driven animations"],
+    "url": "https://ashkatta.dev/ephemeral/",
+    "image": "",
+    "video": "/assets/images/projects/ephemeralDemo.mov"
+  }
+]
